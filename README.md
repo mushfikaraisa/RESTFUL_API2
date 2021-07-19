@@ -215,6 +215,7 @@
 * [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-5-Human_Computer_Interaction/0.5.2-Server_Side_Rendering.html#javascript)
 * [Livecode](bootcamp/week-4/handlebars/demo)
 * [Lecture — pt 1](https://youtu.be/BI4RTmEU3B4)
+* [Lecture - pt 2](https://youtu.be/md1tvybKlxA)
 
 <!-- #### The DOM
 

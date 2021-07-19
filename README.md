@@ -213,13 +213,13 @@
 
 * [Slides](https://docs.google.com/presentation/d/1Wz-Kfx7AiT_OOBEIHX0tXLMInW7hMI7gXO2vbUXYmh0/edit?usp=sharing)
 * [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-5-Human_Computer_Interaction/0.5.2-Server_Side_Rendering.html#javascript)
-* [Livecode](bootcamp/week-3/)
+* [Livecode](bootcamp/week-4/handlebars/demo)
 * [Lecture — pt 1](https://youtu.be/BI4RTmEU3B4)
 
-#### The DOM
+<!-- #### The DOM
 
 * [Slides](https://docs.google.com/presentation/d/14kqd1ezUG-LMH3OfaoeUP_o9A5iy-ssmbNl4CS275PE/edit?usp=sharing)
 * [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-5-Human_Computer_Interaction/0.5.3-The_Document_Object_Model.html#javascript)
 * [Livecode](bootcamp/week-4/handlebars/demo)
-* [Starting point](bootcamp/week-4/handlebars/starting-point)
+* [Starting point](bootcamp/week-4/handlebars/starting-point) -->
 

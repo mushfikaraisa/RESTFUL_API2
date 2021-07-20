@@ -1,0 +1,10 @@
+<section class="restaurants">
+    {{!-- what is happening below? Where does {{image}}, {{id}}, {{name}} come from? --}}
+    {{#each restaurants}} 
+        <article class="restaurant">
+            <img src={{image}} />
+            <br />
+            <a href="/web/restaurants/{{id}}">{{name}}</a>
+        </article>
+    {{/each}}
+</section>

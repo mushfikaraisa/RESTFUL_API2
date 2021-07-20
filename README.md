@@ -222,6 +222,7 @@
 
 * [Slides](https://docs.google.com/presentation/d/14kqd1ezUG-LMH3OfaoeUP_o9A5iy-ssmbNl4CS275PE/edit?usp=sharing)
 * [Optional Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-5-Human_Computer_Interaction/0.5.3-The_Document_Object_Model.html#javascript)
+* [Lecture Recording](https://youtu.be/GrbuDlelM20)
 * [Livecode](bootcamp/week-4/dom/demo)
 
 #### HTML FORMS

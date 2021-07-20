@@ -222,6 +222,7 @@
 
 * [Slides](https://docs.google.com/presentation/d/14kqd1ezUG-LMH3OfaoeUP_o9A5iy-ssmbNl4CS275PE/edit?usp=sharing)
 * [Optional Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-5-Human_Computer_Interaction/0.5.3-The_Document_Object_Model.html#javascript)
+* [Lecture Recording](https://youtu.be/GrbuDlelM20)
 * [Livecode](bootcamp/week-4/dom/demo)
 
 #### HTML FORMS
@@ -229,6 +230,7 @@
 * [Slides](https://docs.google.com/presentation/d/1l1HguFbLuYBaN-9qyg5p4CpDPW3hNuAl1zy6ZDyEV94/edit?usp=sharing)
 * [Codepen.io](https://codepen.io/)
 * [spelunking codebase](bootcamp/week-4/HTML-forms/hot-sauce-html-forms-starter)
+* [Hot sauce solution](bootcamp/week-4/HTML-forms/hot-sauce-html-forms-starter-solution)
 * [Activity Starter (only if you need it)](bootcamp/week-4/HTML-forms/activity-html-forms-and-lists-starter)
 * [Activity](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-5-Human_Computer_Interaction/0.5.4-HTML_forms_and_lists.html#javascript)
 

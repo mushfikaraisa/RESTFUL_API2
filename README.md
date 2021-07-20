@@ -218,10 +218,9 @@
 * [Lecture - pt 2](https://youtu.be/md1tvybKlxA)
 * [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSdz01AHKgdrZlfnRXoYMWgU3stJQ-7nuZfdZgwRVMlVr1GGeA/viewform?usp=sf_link)
 
-<!-- #### The DOM
+#### The DOM
 
 * [Slides](https://docs.google.com/presentation/d/14kqd1ezUG-LMH3OfaoeUP_o9A5iy-ssmbNl4CS275PE/edit?usp=sharing)
-* [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-5-Human_Computer_Interaction/0.5.3-The_Document_Object_Model.html#javascript)
-* [Livecode](bootcamp/week-4/handlebars/demo)
-* [Starting point](bootcamp/week-4/handlebars/starting-point) -->
+* [Optional Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-5-Human_Computer_Interaction/0.5.3-The_Document_Object_Model.html#javascript)
+* [Livecode](bootcamp/week-4/dom/demo)
 

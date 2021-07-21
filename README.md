@@ -230,8 +230,11 @@
 * [Slides](https://docs.google.com/presentation/d/1l1HguFbLuYBaN-9qyg5p4CpDPW3hNuAl1zy6ZDyEV94/edit?usp=sharing)
 * [Codepen.io](https://codepen.io/)
 * [spelunking codebase](bootcamp/week-4/HTML-forms/hot-sauce-html-forms-starter)
+* [Hot sauce solution](bootcamp/week-4/HTML-forms/hot-sauce-html-forms-starter-solution)
+* [order of operations](https://app.diagrams.net/#Lhttp%20forms%20order%20of%20operations)
 * [Activity Starter (only if you need it)](bootcamp/week-4/HTML-forms/activity-html-forms-and-lists-starter)
 * [Activity](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-5-Human_Computer_Interaction/0.5.4-HTML_forms_and_lists.html#javascript)
+* [Activity Solution](bootcamp/week-4/HTML-forms/activity-html-forms-and-lists-starter-solution)
 
 
 ### Final Bootcamp Project

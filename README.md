@@ -236,3 +236,6 @@
 * [Activity](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-5-Human_Computer_Interaction/0.5.4-HTML_forms_and_lists.html#javascript)
 * [Activity Solution](bootcamp/week-4/HTML-forms/activity-html-forms-and-lists-starter-solution)
 
+### WEEK 5 FINAL PROJECT
+
+* [Code Review](bootcamp/week-5/code-reviews.md)

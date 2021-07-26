@@ -238,4 +238,10 @@
 
 ### WEEK 5 FINAL PROJECT
 
+* [Slides](https://docs.google.com/presentation/d/1fGvjHaHbn9aWUIcxJGhnkWIks9zjQjVEi10HdN41xTM/edit?usp=sharing)
+* [Lesson — Overview](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-6-End_Of_Bootcamp_Group_Project/0.6.1-Introduction.html#javascript)
+* [Lesson — Github](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-6-End_Of_Bootcamp_Group_Project/0.6.5-GitHub_Projects.html#javascript)
+* [Lesson — Git Branches](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-6-End_Of_Bootcamp_Group_Project/0.6.6-Branching_and_Pull_Requests.html#javascript)
+* [Video — Daily Scrum](https://www.youtube.com/watch?v=xcC0LmkzG9g)
 * [Code Review](bootcamp/week-5/code-reviews.md)
+

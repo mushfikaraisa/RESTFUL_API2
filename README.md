@@ -244,4 +244,5 @@
 * [Lesson — Git Branches](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-6-End_Of_Bootcamp_Group_Project/0.6.6-Branching_and_Pull_Requests.html#javascript)
 * [Video — Daily Scrum](https://www.youtube.com/watch?v=xcC0LmkzG9g)
 * [Code Review](bootcamp/week-5/code-reviews.md)
+* [Heroku Deployment Video](https://www.youtube.com/watch?v=27GoRa4d15c)
 

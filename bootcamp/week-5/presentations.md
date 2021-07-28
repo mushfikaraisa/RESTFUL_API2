@@ -1,7 +1,7 @@
 # Project Presentations
 
 - Max of 2 minutes per section
-- Max of 8 minutes total presentation 
+- Max of 10 minutes total presentation 
 
 ## All groups should have one person demonstrate the app walkthrough, and one person each on an additional segment of their choice
 

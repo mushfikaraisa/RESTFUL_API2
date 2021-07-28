@@ -7,7 +7,7 @@
 
 ## App Walkthrough
 
-Walk through the _deployed_ app
+Walk through the app (_deployed_ if possible)
 
 - completed tiers
   - See all Items/ See Single Item

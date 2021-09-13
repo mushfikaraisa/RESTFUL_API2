@@ -247,7 +247,7 @@
 ### Day 1
 
 * [Intro to Agile — Slides](https://docs.google.com/presentation/d/1JfuxhZjAhS-qgmcLrY7C-hph3WULmcx0n6qZrbPo8VQ/edit?usp=sharing)
-
+* [Intro to Agile — Lecture Recording](https://youtu.be/DvCA_76Zn1Y)
 
 * [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSc47BvU9gMFLXCU-4gwlhArdxYZNRO7mOmnCRob1ff81iOv3A/viewform?usp=sf_link)
 

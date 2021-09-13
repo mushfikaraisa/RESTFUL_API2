@@ -242,3 +242,11 @@
 * [Code Review](bootcamp/week-5/code-reviews.md)
 * [Heroku Deployment Video](https://www.youtube.com/watch?v=27GoRa4d15c)
 
+## Module 1 (UI Development)
+
+### Day 1
+
+* [Intro to Agile — Slides](https://docs.google.com/presentation/d/1JfuxhZjAhS-qgmcLrY7C-hph3WULmcx0n6qZrbPo8VQ/edit?usp=sharing)
+
+
+

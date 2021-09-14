@@ -244,7 +244,7 @@
 
 ## Module 1 (UI Development)
 
-### Day 1
+### Day 1 — Agile
 
 * [Intro to Agile — Slides](https://docs.google.com/presentation/d/1JfuxhZjAhS-qgmcLrY7C-hph3WULmcx0n6qZrbPo8VQ/edit?usp=sharing)
 * [Intro to Agile — Lecture Recording](https://youtu.be/c3tKBl3CaZw)
@@ -252,3 +252,8 @@
 * [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSc47BvU9gMFLXCU-4gwlhArdxYZNRO7mOmnCRob1ff81iOv3A/viewform?usp=sf_link)
 
 
+### Day 2 — Responsive Design
+
+* [Responsive Design — Slides](https://docs.google.com/presentation/d/1uNwuWZ7yYsQppKIRTExaNRmfJ-CQWSreZ2wZRvNqRg8/edit?usp=sharing)
+
+* [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSdQh5qLKPbRKEj1zHw3xRh5QvWtYUavlSmaOrM2vA1axwytqw/viewform?usp=sf_link)

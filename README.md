@@ -257,3 +257,8 @@
 * [Responsive Design — Slides](https://docs.google.com/presentation/d/1uNwuWZ7yYsQppKIRTExaNRmfJ-CQWSreZ2wZRvNqRg8/edit?usp=sharing)
 * [Responsive Design — Lecture Recording](https://youtu.be/ktFQI-eom_Y)
 * [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSdQh5qLKPbRKEj1zHw3xRh5QvWtYUavlSmaOrM2vA1axwytqw/viewform?usp=sf_link)
+
+
+### Day 3 — Intro to React
+
+* [Intro to React — Slides](https://docs.google.com/presentation/d/1Xfm_BOzOXlynMz_HVz2WUbZX6k1KHlSO-s179wM23b0/edit?usp=sharing)

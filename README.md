@@ -262,3 +262,5 @@
 ### Day 3 — Intro to React
 
 * [Intro to React — Slides](https://docs.google.com/presentation/d/1Xfm_BOzOXlynMz_HVz2WUbZX6k1KHlSO-s179wM23b0/edit?usp=sharing)
+
+* [React Project Boilerplate](https://github.com/MultiverseLearningProducts/swe-mod1-app-starter-react)

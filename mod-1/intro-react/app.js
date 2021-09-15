@@ -12,6 +12,13 @@ const app = express();
 // serve static assets from the public/ folder
 app.use(express.static('public'));
 
+//Allow CORS requests
+app.use((req, res, next) => {
+  res.header('Access-Control-Allow-Origin', '*');
+  next();
+});
+
+
 seed();
 
 app.get('/sauces', async (req, res) => {

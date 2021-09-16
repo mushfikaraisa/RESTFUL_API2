@@ -267,3 +267,13 @@
 
 
 * [React Project Boilerplate](https://github.com/MultiverseLearningProducts/swe-mod1-app-starter-react)
+
+### Day 4 — React Events
+
+* [DEMO CODE]()
+* [React Events — Slides]()
+* [Intro to React — Lecture Recording]()
+* [Exit Ticket]()
+
+
+* [React Project Boilerplate](https://github.com/MultiverseLearningProducts/swe-mod1-app-starter-react)

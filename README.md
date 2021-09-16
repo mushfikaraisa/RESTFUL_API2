@@ -270,10 +270,10 @@
 
 ### Day 4 — React Events
 
-* [DEMO CODE]()
-* [React Events — Slides]()
+* [DEMO CODE](https://github.com/MultiverseLearningProducts/Verizon-2021/tree/main/mod-1/react-events/react-click-event-exercise-starter)
+* [React Events — Slides](https://docs.google.com/presentation/d/1g5qfyII7R5qWOkLeEVM32olzJwlQqAmnMMRuBbqQlzI/edit?usp=sharing)
 * [Intro to React — Lecture Recording]()
-* [Exit Ticket]()
+* [Exit Ticket](https://forms.gle/NcWMyYKQ8F2yEB3J9)
 
 
 * [React Project Boilerplate](https://github.com/MultiverseLearningProducts/swe-mod1-app-starter-react)

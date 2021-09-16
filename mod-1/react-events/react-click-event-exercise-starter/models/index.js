@@ -7,6 +7,7 @@ class Sauce extends Model {}
 Sauce.init({
     name: DataTypes.STRING,
     image: DataTypes.STRING,
+    nutrition: DataTypes.STRING
 }, {
     sequelize,
     timestamps: false,

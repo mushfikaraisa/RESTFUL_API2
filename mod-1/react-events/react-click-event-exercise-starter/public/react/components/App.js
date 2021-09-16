@@ -2,6 +2,8 @@ import React, { useState, useEffect } from 'react';
 import { ItemContainer } from './ItemContainer';
 // need to import our functional component + class component
 import FuncClick from './FuncClick';
+import Counter from './Counter';
+
 
 export const App = () => {
 
@@ -34,6 +36,7 @@ export const App = () => {
 					<FuncClick />
 				</div>
 			</div>
+			<Counter />
 		</div>
 	)
 }

@@ -272,7 +272,7 @@
 
 * [DEMO CODE](https://github.com/MultiverseLearningProducts/Verizon-2021/tree/main/mod-1/react-events/react-click-event-exercise-starter)
 * [React Events — Slides](https://docs.google.com/presentation/d/1g5qfyII7R5qWOkLeEVM32olzJwlQqAmnMMRuBbqQlzI/edit?usp=sharing)
-* [Intro to React — Lecture Recording]()
+* [Intro to React — Lecture Recording](https://multiverse-io.zoom.us/rec/share/OTVb1e6O8PlvTXAfNJun1dLR3mX90TIRi897XZZoAJQA5uTX65q_l6ASGW4NXBR7.5ToTxrSBHIBmmfFD?startTime=1631817283000)
 * [Exit Ticket](https://forms.gle/NcWMyYKQ8F2yEB3J9)
 
 

@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { ItemContainer } from './ItemContainer';
 // need to import our functional component + class component
+import FuncClick from './FuncClick';
 
 export const App = () => {
 
@@ -25,11 +26,12 @@ export const App = () => {
 	console.log("SAUCES ON STATE ", sauces)
 	return (
 		<div>	
-			<h1>A Somewhat { message } Site</h1>
+			{/* <h1>A Somewhat { message } Site</h1> */}
 			<div className="clearfix">
 				<div className="block">
 					{/* add components here */}
 					<ItemContainer items={sauces} />
+					<FuncClick />
 				</div>
 			</div>
 		</div>

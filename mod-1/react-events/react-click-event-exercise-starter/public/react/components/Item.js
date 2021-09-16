@@ -4,9 +4,14 @@ const backgroundImg = (item) => (`img/${item.name}.gif`);
 
 export const Item = (props) => {
 	// add heat hooks here
+	const [ heat, setHeat ] = useState(['🔥'])
+
 
 //DEMO
-// add heat function here
+	function addHeat () {
+		setHeat([...heat,'🔥'])
+		console.log(heat)
+	}
 
 //REMOVE HEAT
 
@@ -14,10 +19,10 @@ export const Item = (props) => {
 	return (
 		<div>
 			<img className="item-img" src={props.item.image} />
-
-{/* How can we display all the heat icons? */}
-
-				<button onClick={() => addHeat()}>Add Heat</button>
+				{heat.map( (pepper) => {
+					return pepper
+				})}
+				<button onClick={addHeat}>Add Heat</button>
 		</div>
 
 		)

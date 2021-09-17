@@ -275,5 +275,8 @@
 * [Intro to React — Lecture Recording](https://multiverse-io.zoom.us/rec/share/OTVb1e6O8PlvTXAfNJun1dLR3mX90TIRi897XZZoAJQA5uTX65q_l6ASGW4NXBR7.5ToTxrSBHIBmmfFD?startTime=1631817283000)
 * [Exit Ticket](https://forms.gle/NcWMyYKQ8F2yEB3J9)
 
+### Day 5
 
-* [React Project Boilerplate](https://github.com/MultiverseLearningProducts/swe-mod1-app-starter-react)
+* [Live Review](tbd)
+* [Livecode](/mod-1/react-review)
+* [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLScsNk45LYz5GzPK9HDV2zY7IfTa57vaTfXYVNY0XY8luA6z2Q/viewform?usp=sf_link)

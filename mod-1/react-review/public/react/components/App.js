@@ -28,8 +28,8 @@ export const App = () => {
 	}, []);
 
 	return (
-		<div onClick={handleClick}>	
-			<h2 id="header-small">A Somewhat { message } Site</h2>
+		<div>	
+			<h2 id="header-small" onClick={handleClick}>A Somewhat { message } Site</h2>
 			<ItemContainer items={sauces} mango={'sweet'} />
 		</div>
 	)

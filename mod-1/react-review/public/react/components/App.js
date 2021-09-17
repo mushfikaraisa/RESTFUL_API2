@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { ItemContainer } from './ItemContainer';
 
 export const App = () => {
+	// Setting our default states
 
 	const [sauces, setSauces] = useState([])
 	const [message, setMessage] = useState('🔥')
@@ -29,7 +30,7 @@ export const App = () => {
 	return (
 		<div onClick={handleClick}>	
 			<h2 id="header-small">A Somewhat { message } Site</h2>
-			<ItemContainer items={sauces} />
+			<ItemContainer items={sauces} mango={'sweet'} />
 		</div>
 	)
 }

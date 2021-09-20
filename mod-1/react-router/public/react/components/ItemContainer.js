@@ -3,7 +3,7 @@ import { Item } from './Item';
 
 export const ItemContainer = (props) => {
 
-	const [selectedItem, setSelectedItem] = useState('')
+	const [selectedItem, setSelectedItem] = useState(null)
 
 	const handleChange = (e) => {
 		// console.log('what does our event look like? ', e)
@@ -40,7 +40,9 @@ export const ItemContainer = (props) => {
 					}
 				</select>
 			</div>
-			<button className="btn" onClick={(e) => props.addItem(selectedItem)}>Add Item to Cart</button>
+			{
+				selectedItem ? <button className="btn" onClick={(e) => props.addItem(selectedItem)}>Add Item to Cart</button> : null
+			}
 		</div>
 	)
 } 

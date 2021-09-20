@@ -8,8 +8,8 @@ export const Cart = (props) => {
 			Your Cart:
 			<br />
 			{
-				Object.keys(props.cart).map((cartItem, idx) => {
-					return <div key={idx}><strong>{cartItem}: </strong>{props.cart[cartItem]}</div>
+				Object.keys(props.cart).map((itemName, idx) => {
+					return <div key={idx}><strong>{itemName}: </strong>{props.cart[itemName]}</div>
 				})
 			}
 		</div>

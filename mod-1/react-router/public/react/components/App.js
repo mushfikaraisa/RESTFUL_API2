@@ -61,7 +61,7 @@ export const App = () => {
 				</Link>
 			</nav>
 			<Route path="/sauces">
-				<ItemContainer items={sauces} mango={'sweet'} addItem={addItem} />
+				<ItemContainer items={sauces} addItem={addItem} />
 			</Route>
 			<Route path="/cart">
 				<Cart cart={cart}/>

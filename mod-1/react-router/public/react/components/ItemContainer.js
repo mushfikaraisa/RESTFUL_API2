@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Item } from './Item';
 
 export const ItemContainer = (props) => {
-	
+
 	const [selectedItem, setSelectedItem] = useState('')
 
 	const handleChange = (e) => {
@@ -40,6 +40,7 @@ export const ItemContainer = (props) => {
 					}
 				</select>
 			</div>
+			<button className="btn" onClick={(e) => props.addItem(selectedItem)}>Add Item to Cart</button>
 		</div>
 	)
 } 

@@ -288,3 +288,9 @@
 * [Livecode](/mod-1/react-router)
 * [Lecture Recording](https://youtu.be/-uJ-cVOhS1Q)
 * [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSdYvuX50uNipbd0lAbZVAeVqQseaE5MQeuldNZ6lkIJ1ORqtg/viewform?usp=sf_link)
+
+
+### Day 7 - A11y
+
+* [Slides](https://docs.google.com/presentation/d/1C64AgTABmz8zFkJJMGeNsgd0h4LHIu799HAZR1ZZhLc/edit?usp=sharing)
+* [Livecode](/mod-1/a11y)

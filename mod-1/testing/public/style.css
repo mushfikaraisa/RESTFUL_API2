@@ -1,0 +1,49 @@
+* {
+  background-color:  papayawhip;
+}
+
+#header{
+  color:  steelblue;
+  font-size:  32px;
+  font-family:  fantasy, sans-serif;
+  text-shadow: 2px 2px fuchsia;
+}
+
+#header:hover{
+  color: palegoldenrod;
+}
+
+#header-small {
+  font-size:  16px;
+  color:  darkorchid;
+  text-shadow:  1px darkmagenta;
+  transition: transform .3s;
+}
+
+#header-small:hover {
+  transform: translateY(-10px);
+}
+
+.item-img {
+  width: 225px;
+  padding: 0 10px;
+  float: left;
+  height: 225px;
+  background-repeat: no-repeat;
+  background-size: 225px;
+}
+.btn{
+    background-color: lightcyan;
+    opacity:  0.6;
+    border: 2px solid black;
+    margin: 5px;
+  }
+
+ .btn:hover{
+    background-color: lightcyan;
+    opacity:  0.8;
+    text-decoration: underline;
+    border: 2px solid darkcyan;
+    box-shadow: 2px 2px darkviolet;
+    margin: 5px;
+  } 

@@ -303,3 +303,4 @@
 * [Slides](https://docs.google.com/presentation/d/1ykqw5s0IAeVr6Kvg3SORZdT14ThQFIMbNS_KZ98WM5I/edit?usp=sharing)
 * [Livecode](/mod-1/testing)
 * [Lecture Recording](https://youtu.be/yn1JrjicK0U)
+* [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLScy7hpKx53YX6g5S4JYOwqmZ7I1tdVGMLa4jMHEDgwvO9vEFg/viewform?usp=sf_link)

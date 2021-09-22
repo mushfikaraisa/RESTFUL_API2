@@ -302,3 +302,4 @@
 
 * [Slides](https://docs.google.com/presentation/d/1ykqw5s0IAeVr6Kvg3SORZdT14ThQFIMbNS_KZ98WM5I/edit?usp=sharing)
 * [Livecode](/mod-1/testing)
+* [Lecture Recording](https://youtu.be/yn1JrjicK0U)

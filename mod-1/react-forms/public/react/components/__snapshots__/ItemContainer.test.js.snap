@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Item container component renders Item Container component as expected 1`] = `
+<div
+  className="item-container"
+>
+  <h3>
+    Select an item plz
+  </h3>
+  <br />
+  <div>
+    <label>
+      Select a Product :
+    </label>
+    <select
+      onChange={[Function]}
+    >
+      <option
+        value=""
+      />
+      <option
+        value={0}
+      />
+      <option
+        value={1}
+      />
+    </select>
+  </div>
+</div>
+`;

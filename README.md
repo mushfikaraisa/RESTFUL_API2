@@ -310,7 +310,7 @@
 
 * [Slides](https://docs.google.com/presentation/d/1hg_Rw2cCv2zA-wxDJkfBkRT5g486KT7WUSmfzIZSyms/edit?usp=sharing)
 * [Livecode](/mod-1/react-forms)
-
+* [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSf69mM_3gmhuLHxmw-ZKepaDdtnZAbHIkGVtdeg3jQ-PVftQA/viewform?usp=sf_link)
 
 ### Day 10 - Presentations
 

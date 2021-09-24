@@ -7,7 +7,7 @@
 * Being back with Team Thrive (Ricardo + Judith)
 * Meeting everyday, working closely is inspiring (Judith)
 * Having lecture + practice structure (Judith + Crystal + Stanley)
-* Course structure is a rode garden (Crystal)
+* The module structure is a whole rose garden (Crystal)
 * Learning new concepts (James)
 * Learning and practicing React (Aden)
 * Working together with everyone, both in main and group sessions (Elizabeth + Afreen + Ricardo)

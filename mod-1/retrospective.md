@@ -58,7 +58,7 @@
 * Thankful to Dan and Linda for always being helpful! (Aden + Ricardo)
 * Get well soon Chad! (Crystal)
 * Kudos to Dan for allowing us to progressively struggle and learn (Tyson)
-* Kudos to Dan and LInda, I wish all my teachers in schoolhad been like you (Lindsey)
+* Kudos to Dan and Linda, I wish all my teachers in school had been like you (Lindsey)
 * Thanks to Ayman for creating the slides! (Aden)
 * Thankful to James, Elizabeth, Sharon for picking up pieces when I wasn't available (Abdi)
 

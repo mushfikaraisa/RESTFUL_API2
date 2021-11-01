@@ -2,7 +2,7 @@ const express = require("express");
 const basicAuth = require('express-basic-auth');
 const bcrypt = require('bcrypt');
 
-const {User, Item} = require('./models');
+const {User, Item, Product} = require('./models');
 
 // initialise Express
 const app = express();
@@ -64,4 +64,25 @@ app.put('/items/:id', async(req, res)=> {
 
 app.listen(3000, () => {
   console.log("Server running on port 3000");
+
+  app.get('/products', async(req, res)=> {
+    let products = await Product.findAll();
+    res.json({products});
+  })
+  
+
+  app.put('/products/:id', async(req, res)=> {
+    let updatedProduct = await Product.update(req.body, {
+      where : {id : req.params.id}
+    });
+    res.json({updatedProduct})
+  })
+  app.post('/products', async(req, res)=> {
+    let newProduct = await Product.create(req.body);
+    res.json({newProduct})
+  })
+  app.delete('/products/:id', async(req, res)=> {
+    await Product.destroy({where: {id: req.params.id}});
+    res.send('Deleted!')
+  }) 
 });

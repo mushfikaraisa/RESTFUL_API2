@@ -3,6 +3,7 @@ const {sequelize} = require('../db')
 
 
 class User extends Model {}
+class Product extends Model {}
 
 class Item extends Model {}
 
@@ -22,4 +23,12 @@ Item.init({
     timestamps: false,
 });
 
-module.exports = {User, Item};
+Product.init({
+    name: DataTypes.STRING,
+    price: DataTypes.DOUBLE
+}, {
+    sequelize,
+    timestamps: false,
+});
+
+module.exports = {User, Item,Product};

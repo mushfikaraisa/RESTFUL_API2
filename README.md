@@ -324,5 +324,6 @@
 * [Intro to REST — Slides](https://docs.google.com/presentation/d/1JCs_7pTOHrWaXOlcM5VuYpzIv_EBDZAT3xrIrQfJPCw/edit?usp=sharing)
 * [Intro to REST — Lecture Recording]()
 * [Lesson](https://multiverselearningproducts.github.io/curriculum/Module-2/Unit-1-Securing_APIs_with_Basic_Auth/2.1.1-RESTful_APIs_and_Frameworks.html#javascript)
+* [Exit Ticket](https://forms.gle/mn5m9DhHWTCNjR4Y6)
 
 

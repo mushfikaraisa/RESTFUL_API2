@@ -283,7 +283,7 @@
 
 ### Day 6 —	 React Router
 
-* [Slides](https://docs.google.com/presentation/d/1WBKt-VVKoOs7cRLJEdYVD3jQiN31Y5pYLs0eAVCbpkk/edit?usp=sharing)
+* [Slides](https://docs.google.com/presentation/d/1JCs_7pTOHrWaXOlcM5VuYpzIv_EBDZAT3xrIrQfJPCw/edit?usp=sharing)
 * [Livecode](/mod-1/react-router)
 * [Lecture Recording](https://youtu.be/-uJ-cVOhS1Q)
 * [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSdYvuX50uNipbd0lAbZVAeVqQseaE5MQeuldNZ6lkIJ1ORqtg/viewform?usp=sf_link)

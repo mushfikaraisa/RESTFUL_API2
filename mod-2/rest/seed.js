@@ -3,12 +3,12 @@ const fs = require('fs').promises;
 const bcrypt = require('bcrypt');
 
 const {sequelize} = require('./db');
-const {User, Item} = require('./models');
+const {User, Item, Product} = require('./models');
 
 const createUsers = async () => {
     const users = [
-        {name : 'Dan', password: '1234'},
-        {name : 'Linda', password : 'password'}
+        {name : 'Juliet', password: '5678'},
+        {name : 'David', password : 'password'}
     ];
 
     return users
@@ -16,11 +16,16 @@ const createUsers = async () => {
 
 
 const items = [
-    {name : 'Gold'},
-    {name : 'Silver'},
-    {name : 'Paladium'}
+    {name : 'Robert'},
+    {name : 'Sam'},
+    {name : 'Jordan'}
 ];
 
+const products = [
+    {name : 'Food'},
+    {name : 'Jewelery'},
+    {name : 'Icecream'}
+];
 
 const seed = async () => {
 
@@ -30,7 +35,8 @@ const seed = async () => {
 
     const userPromises = users.map(user => User.create(user))
     const itemPromises = items.map(item => Item.create(item))
-    await Promise.all([...userPromises, ...itemPromises]);
+    const productPromises = products.map(product => Product.create(product))
+    await Promise.all([...userPromises, ...itemPromises, ...productPromises]);
     console.log("db populated!")
 }
 

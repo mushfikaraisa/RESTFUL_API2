@@ -18,24 +18,24 @@ const createUsers = async () => {
     return users
 }
 
-const createItems = async () => {
-    let pw3 = await bcrypt.hash('keypass', 2);
-    let pw4 = await bcrypt.hash('securitypass', 2);
-    let pw5 = await bcrypt.hash('codepass',2)
-    const items = [
-        {name :  pw3},
-        {name :  pw4},
-        {name :  pw5}
-    ];
+// const createItems = async () => {
+//     let pw3 = await bcrypt.hash('keypass', 2);
+//     let pw4 = await bcrypt.hash('securitypass', 2);
+//     let pw5 = await bcrypt.hash('codepass',2)
+//     const items = [
+//         {name :  pw3},
+//         {name :  pw4},
+//         {name :  pw5}
+//     ];
 
-    return items
-}
+//     return items
+// }
 
-// const items = [
-//     {name : 'Robert'},
-//     {name : 'Sam'},
-//     {name : 'Jordan'}
-// ];
+const items = [
+     {name : 'Robert'},
+     {name : 'Sam'},
+     {name : 'Jordan'}
+ ];
 
 const products = [
     {name : 'Food'},
@@ -48,7 +48,7 @@ const seed = async () => {
     await sequelize.sync({ force: true });
 
     const users = await createUsers(); // create users w/ encrypted passwords
-    const items = await createItems();
+    
 
     const userPromises = users.map(user => User.create(user))
     const itemPromises = items.map(item => Item.create(item))

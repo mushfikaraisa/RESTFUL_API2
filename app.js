@@ -44,6 +44,11 @@ app.get('/users/:id', async (req, res) => {
   res.json({user});
 })
 
+app.post('/users', async (req, res) => {
+  let newUser = await User.create(req.body);
+  res.json({newUser});
+})
+
 // I want to get all items
 
 app.get('/items', async(req, res)=> {

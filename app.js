@@ -1,39 +1,56 @@
 const express = require("express");
-const basicAuth = require('express-basic-auth');
+// const basicAuth = require('express-basic-auth');
 const bcrypt = require('bcrypt');
+const jwt = require('express-jwt');
+const jwksRsa = require('jwks-rsa');
+const cors = require('cors'); 
+
+require('dotenv').config('.env'); // Note: env vars should not be used in production
 
 const {User, Item, Product} = require('./models');
 
 // initialise Express
 const app = express();
+app.use(cors());
 
 // specify out request bodies are json
 app.use(express.json());
-app.use(basicAuth({
-  authorizer : Authorize, //custom authorizer fn
-  authorizeAsync: true, //allow our authorizer to be async
-  unauthorizedResponse : () => 'Basic Authentication!'
-}))
+const checkJwt = jwt({
+  secret: jwksRsa.expressJwtSecret({
+      cache: true,
+      rateLimit: true,
+      jwksRequestsPerMinute: 5,
+      jwksUri: `https://${process.env.AUTH0_DOMAIN}.well-known/jwks.json`
+  }),
+  audience: process.env.AUTH0_AUDIENCE,
+  issuer: `https://${process.env.AUTH0_DOMAIN}`,
+  algorithms: ['RS256']
+  });
+// app.use(basicAuth({
+//   authorizer : Authorize, //custom authorizer fn
+//   authorizeAsync: true, //allow our authorizer to be async
+//   unauthorizedResponse : () => 'Basic Authentication!'
+// }))
 
-//compares username + password with what's in the database
-// Returns boolean indicating if password matches
-async function Authorize(username, password, callback){
-  try {
-    // get user from DB
-    const user = await User.findOne({where : {name : username}})
-    // isValid == true if user exists and passwords match, false if no user or passwords don't match
-    let isValid = (user != null) ? await bcrypt.compare(password, user.password) : false;
-    callback(null, isValid); //callback expects null as first argument
-  } catch(err) {
-    console.log(" AN ERROR!", err)
-    callback(null, false);
-  }
-}
+// //compares username + password with what's in the database
+// // Returns boolean indicating if password matches
+// async function Authorize(username, password, callback){
+//   try {
+//     // get user from DB
+//     const user = await User.findOne({where : {name : username}})
+//     // isValid == true if user exists and passwords match, false if no user or passwords don't match
+//     let isValid = (user != null) ? await bcrypt.compare(password, user.password) : false;
+//     callback(null, isValid); //callback expects null as first argument
+//   } catch(err) {
+//     console.log(" AN ERROR!", err)
+//     callback(null, false);
+//   }
+// }
 app.get('/', (req, res) => {
   res.send('<h1>Hello!!!!</h1>')
 })
 
-app.get('/users', async (req, res) => {
+app.get('/users', checkJwt, async (req, res) => {
   //what should i put here?
   let users = await User.findAll()
   res.json({users});
